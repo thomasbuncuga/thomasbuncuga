@@ -1,6 +1,5 @@
 - Hi, I’m @thomasbuncuga 
-- I’m interested in technology and in innovation 
--Currently building in web3
+- Interested in technology and in innovation 
 -  You can reach me in https://www.linkedin.com/in/thomas-buncuga-068422215/
 
 <!---
